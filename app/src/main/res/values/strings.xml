@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">What is This ?</string>
+    <string name="toggle_camera">alternate-camara</string>
+    <string name="detect_object">Detect Object</string>
+</resources>
